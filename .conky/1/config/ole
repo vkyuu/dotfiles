@@ -1,0 +1,41 @@
+minimum_size 500 30
+#maximum_width 700
+gap_x 835
+gap_y 155
+alignment top_left
+update_interval 0.1
+use_xft yes
+xftfont Envy Code R:size=15
+override_utf8_locale yes
+text_buffer_size 2048
+own_window yes
+own_window_type desktop
+own_window_transparent no
+own_window_colour ffffff
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_argb_visual yes
+own_window_argb_value 255
+double_buffer yes
+# Draw shades?
+draw_shades no
+# Draw outlines?
+draw_outline no
+default_outline_color #ff9800
+
+# Draw borders around text
+draw_borders no
+
+# Stippled borders?
+stippled_borders 0
+# border margins
+border_margin 20
+
+# border width
+border_width 2
+uppercase no
+border_inner_margin 0
+default_color bdbdbd
+default_shade_color #333333
+
+TEX
+${color #325B65}${font Inconsolata:size=10} [User:] kyuu ${offset 5}|[HDD:] ${fs_used /}${offset 2}/${offset 2}${fs_size /}

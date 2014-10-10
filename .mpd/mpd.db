@@ -1,0 +1,1283 @@
+info_begin
+format: 1
+mpd_version: 0.18.7
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Accel World
+mtime: 1396292130
+begin: Accel World
+song_begin: 01 - Chase the world.mp3
+Time: 229
+Artist: May'n
+Title: Chase the world
+Album: Accel World OP Single - Chase the world
+Track: 1/4
+Date: 2012
+Genre: Anime
+mtime: 1336277206
+song_end
+song_begin: 02 - Hikari.mp3
+Time: 277
+Artist: May'n
+Title: Hikari
+Album: Accel World OP Single - Chase the world
+Track: 2/4
+Date: 2012
+Genre: Anime
+mtime: 1336302406
+song_end
+end: Accel World
+directory: Code Breaker
+mtime: 1412430084
+begin: Code Breaker
+song_begin: 01. DARK SHAME.mp3
+Time: 291
+Artist: GRANRODEO
+AlbumArtist: GRANRODEO
+Title: DARK SHAME
+Album: ??:???? OP???
+Track: 1/4
+Date: 12-1
+Genre: Anime
+mtime: 1352400220
+song_end
+end: Code Breaker
+directory: Guilty Crown OST
+mtime: 1396292136
+begin: Guilty Crown OST
+song_begin: Guiltycrown-everlasting.mp3
+Time: 190
+mtime: 1337300734
+song_end
+song_begin: guilty crown - kokuhaku(supercell).mp3
+Time: 200
+mtime: 1337300726
+song_end
+song_begin: ryo(supercell) - 『エウテルペ ～Silence～』.mp3
+Time: 93
+Artist: ryo(supercell)
+AlbumArtist: ryo(supercell)
+Title: 『エウテルペ ～Silence～』
+Album: Guilty Crown THEME SONGS COLLECTION
+Track: 1/4
+Date: 2012
+Genre: animation
+mtime: 1327797068
+song_end
+song_begin: 澤野弘之 - βios.mp3
+Time: 295
+Artist: 澤野弘之
+AlbumArtist: ryo(supercell)
+Title: βios
+Album: Guilty Crown THEME SONGS COLLECTION
+Track: 3/4
+Date: 2012
+Genre: animation
+mtime: 1327797078
+song_end
+song_begin: 澤野弘之 -  Rё.L　_feat. Cyua_ .mp3
+Time: 252
+Artist: 澤野弘之
+AlbumArtist: ryo(supercell)
+Title: Rё.L　<feat. Cyua>
+Album: Guilty Crown THEME SONGS COLLECTION
+Track: 4/4
+Date: 2012
+Genre: animation
+mtime: 1327797076
+song_end
+song_begin: supercel-My Dearest l.mp3
+Time: 338
+Artist: supercell
+Title: My Dearest
+Album: My Dearest
+Track: 1
+Date: 2011
+Genre: Anime
+mtime: 1324902096
+song_end
+song_begin: EGoist-Euterpe.mp3
+Time: 229
+Artist: EGOIST
+Title: 02.エウテルペ
+Album: [EGOIST] Departures
+Track: 2
+mtime: 1327908310
+song_end
+song_begin: EGOIST - 01.Departures ~¤¢¤Ê¤¿¤Ë¤ª¤¯¤ë¥¢¥¤¤Î¸è~ .mp3
+Time: 256
+Artist: EGOIST
+Title: Departures
+Album: kana[anime-mp3]
+Track: 1
+Date: 2011
+Genre: anime
+mtime: 1327995576
+song_end
+end: Guilty Crown OST
+directory: GuiltyCrownOP2[20120307]SVWC-7834
+mtime: 1396292164
+begin: GuiltyCrownOP2[20120307]SVWC-7834
+song_begin: 02. Kimi Sora Kiseki.mp3
+Time: 308
+Artist: EGOIST
+Title: Kimi Sora Kiseki
+Album: Guilty Crown OP02 Single - The Everlasting Guilty Crown
+Track: 02
+Date: 2012
+Genre: Anime
+mtime: 1348426890
+song_end
+song_begin: 03. The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-.mp3
+Time: 476
+Artist: EGOIST
+Title: The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-
+Album: Guilty Crown OP02 Single - The Everlasting Guilty Crown
+Track: 03
+Date: 2012
+Genre: Anime
+mtime: 1348426890
+song_end
+song_begin: 04. The Everlasting Guilty Crown -TV Edit-.mp3
+Time: 97
+Artist: EGOIST
+Title: The Everlasting Guilty Crown -TV Edit-
+Album: Guilty Crown OP02 Single - The Everlasting Guilty Crown
+Track: 04
+Date: 2012
+Genre: Anime
+mtime: 1348426890
+song_end
+song_begin: 06. Kimi Sora Kiseki ~Instrumental~ .mp3
+Time: 305
+Artist: EGOIST
+Title: Kimi Sora Kiseki ~Instrumental~
+Album: Guilty Crown OP02 Single - The Everlasting Guilty Crown
+Track: 06
+Date: 2012
+Genre: Anime
+mtime: 1348426890
+song_end
+end: GuiltyCrownOP2[20120307]SVWC-7834
+directory: Gundam 00 OST
+mtime: 1396292138
+begin: Gundam 00 OST
+song_begin: Gundam 00 Second Season - Namida no Mukou (OP2).mp3
+Time: 213
+Artist: Strereopony
+Title: Namida No Mukou
+Album: Gundam 00 Second Season
+Genre: Anime
+mtime: 1324202538
+song_end
+end: Gundam 00 OST
+directory: Hiiragi
+mtime: 1396292138
+begin: Hiiragi
+song_begin: Hiiragi - Ima, Kono Toki.mp3
+Time: 289
+Track: 1
+Date: 2012
+Genre: Other
+mtime: 1337275536
+song_end
+end: Hiiragi
+directory: Hyouka
+mtime: 1396292142
+begin: Hyouka
+song_begin: 01 - Yasashisa no Riyuu.mp3
+Time: 255
+Artist: ChouCho
+Title: Yasashisa no Riyuu
+Album: Hyouka OP Single - Yasashisa no Riyuu
+Track: 1/6
+Date: 2012
+Genre: Anime
+mtime: 1335894326
+song_end
+song_begin: 02 - Komorebi-iro no Kioku.mp3
+Time: 268
+Artist: ChouCho
+Title: Komorebi-iro no Kioku
+Album: Hyouka OP Single - Yasashisa no Riyuu
+Track: 2/6
+Date: 2012
+Genre: Anime
+mtime: 1335894326
+song_end
+song_begin: 03 - Aozora no Kodou.mp3
+Time: 257
+Artist: ChouCho
+Title: Aozora no Kodou
+Album: Hyouka OP Single - Yasashisa no Riyuu
+Track: 3/6
+Date: 2012
+Genre: Anime
+mtime: 1335894326
+song_end
+end: Hyouka
+directory: K OP Single
+mtime: 1396292166
+begin: K OP Single
+song_begin: 03. KINGS (off vocal version).mp3
+Time: 320
+AlbumArtist: a
+Track: 3
+Disc: 1
+mtime: 1412929108
+song_end
+song_begin: 01. KINGS.mp3
+Time: 320
+Artist: angela
+AlbumArtist: angela
+Title: KINGS
+Album: KINGS
+Track: 1/4
+Disc: 1
+mtime: 1350824390
+song_end
+end: K OP Single
+directory: K-On!
+mtime: 1396292146
+begin: K-On!
+directory: Cagayake Girls
+mtime: 1396292144
+begin: K-On!/Cagayake Girls
+song_begin: 01 - Cagayake! GIRLS.mp3
+Time: 250
+Artist: Toyasaki Aki & Hisaka Youko & Satou Satomi & Kotobuki Minako
+Title: Cagayake! GIRLS
+Album: Cagayake! GIRLS
+Track: 1
+Date: 2009
+Genre: Anime
+Genre: Anime
+mtime: 1322980490
+song_end
+song_begin: 02 - Happy! Sorry!!.mp3
+Time: 228
+Artist: Toyasaki Aki & Hisaka Youko & Satou Satomi & Kotobuki Minako
+Title: Happy!? Sorry!!
+Album: Cagayake! GIRLS
+Track: 2
+Date: 2009
+Genre: Anime
+Genre: Anime
+mtime: 1322980480
+song_end
+end: K-On!/Cagayake Girls
+directory: Mio-No Thank You
+mtime: 1412430098
+begin: K-On!/Mio-No Thank You
+song_begin: k-on NO,Thank you!.mp3
+Time: 257
+Artist: •ú‰ÛŒãƒeƒB[ƒ^ƒCƒ€
+Title: No,Thank You!
+Album: NO,Thank You!
+Track: 1
+Date: 2010
+Genre: Anime
+mtime: 1359082508
+song_end
+end: K-On!/Mio-No Thank You
+directory: Yui ver
+mtime: 1396292148
+begin: K-On!/Yui ver
+song_begin: 01 - Curry Nochi Rice.mp3
+Time: 196
+Artist: Toyosaki Aki
+Title: Curry Nochi Rice
+Album: K-ON! Gekichuka Mini Album Houkago Tea Time "Studio Mix"
+Track: 1
+Date: 2009
+Genre: Anime
+Genre: Anime
+mtime: 1322980494
+song_end
+song_begin: 02 - Watashi no Koi wa Hotch Kiss.mp3
+Time: 264
+Artist: Toyosaki Aki
+Title: Watashi no Koi wa Hotch Kiss
+Album: K-ON! Gekichuka Mini Album Houkago Tea Time "Studio Mix"
+Track: 2
+Date: 2009
+Genre: Anime
+Genre: Anime
+mtime: 1322980456
+song_end
+song_begin: 03 - Fude Pen ~Ballpoint Pen~.mp3
+Time: 238
+Artist: Toyosaki Aki & Hikasa Youko
+Title: Fude Pen ~Ballpoint Pen~
+Album: K-ON! Gekichuka Mini Album Houkago Tea Time "Studio Mix"
+Track: 3
+Date: 2009
+Genre: Anime
+Genre: Anime
+mtime: 1322980386
+song_end
+song_begin: 04 - Fuwa Fuwa Time (5nin Version).mp3
+Time: 236
+Artist: Toyosaki Aki
+Title: Fuwa Fuwa Time (5nin Version)
+Album: K-ON! Gekichuka Mini Album Houkago Tea Time "Studio Mix"
+Track: 4
+Date: 2009
+Genre: Anime
+Genre: Anime
+mtime: 1322980494
+song_end
+end: K-On!/Yui ver
+end: K-On!
+directory: Kiva
+mtime: 1396292150
+begin: Kiva
+song_begin: 28 - 心理の探究.mp3
+Time: 71
+Title: SÌT
+Album: ¼ÊC_[Lo IWiTEhgbN
+Track: 28/44
+Date: 2008
+Genre: 254
+Genre: Tokusatsu(J)
+mtime: 1214765352
+song_end
+song_begin: 34 - 悲壮の調べ.mp3
+Time: 86
+Title: ßsÌ²×
+Album: ¼ÊC_[Lo IWiTEhgbN
+Track: 34/44
+Date: 2008
+Genre: 254
+Genre: Tokusatsu(J)
+mtime: 1214765374
+song_end
+song_begin: 39 - 音也.mp3
+Time: 100
+Title: ¹ç
+Album: ¼ÊC_[Lo IWiTEhgbN
+Track: 39/44
+Date: 2008
+Genre: 254
+Genre: Tokusatsu(J)
+mtime: 1214765396
+song_end
+song_begin: 40 - 渡.mp3
+Time: 103
+Title: n
+Album: ¼ÊC_[Lo IWiTEhgbN
+Track: 40/44
+Date: 2008
+Genre: 254
+Genre: Tokusatsu(J)
+mtime: 1214765402
+song_end
+song_begin: 41 - Break the Chain TV-SIZE EDIT..mp3
+Time: 78
+Title: Break the Chain TV-SIZE EDIT.
+Album: ¼ÊC_[Lo IWiTEhgbN
+Track: 41/44
+Date: 2008
+Genre: 254
+Genre: Tokusatsu(J)
+mtime: 1214765406
+song_end
+end: Kiva
+directory: Law of Ueki
+mtime: 1396292152
+begin: Law of Ueki
+song_begin: The Law of Ueki - Falco.mp3
+Time: 216
+Artist: Shimatani Hitomi
+AlbumArtist: 島谷ひとみ
+Title: Falco
+Album: Falco
+Track: 1
+Date: 2005
+Genre: Anime
+Genre: Anime
+mtime: 1355151580
+song_end
+song_begin: The Law of Ueki - No Regret.mp3
+Time: 268
+Artist: Koda Kumi
+AlbumArtist: Linda Bonadies
+Title: No Regret
+Album: No Regret
+Track: 1/4
+Date: 2006
+Genre: JPop
+Genre: JPop
+mtime: 1355151584
+song_end
+end: Law of Ueki
+directory: Mirai Nikki
+mtime: 1396292154
+begin: Mirai Nikki
+song_begin: Kuusou Mesorogiwi - Yousei Teikoku [Mirai Nikki OP Full] ~320kbps~ (JeancarloSan).mp3
+Time: 240
+Artist: 妖精帝國
+Title: 空想メソロギヰ
+Album: 空想メソロギヰ(初回限定盤)
+Track: 1/4
+Date: 2011
+Genre: J-Pop
+Disc: 1/1
+mtime: 1325461116
+song_end
+end: Mirai Nikki
+directory: Naruto
+mtime: 1412430106
+begin: Naruto
+song_begin: 01.naruto shippuuden - hero's come back.mp3
+Time: 272
+mtime: 1337275546
+song_end
+song_begin: 082. Blue Bird - Ikimono Gakari.mp3
+Time: 219
+Artist: いきものがかり
+Title: ブルーバード
+Album: 2008 Oricon Top 100
+Track: 82
+Date: 2008
+Genre: Anime
+mtime: 1327094434
+song_end
+end: Naruto
+directory: Robotics;Notes
+mtime: 1412430107
+begin: Robotics;Notes
+song_begin: 01 - Junjou Spectra.mp3
+Time: 255
+Artist: Zwei
+Title: Junjou Spectra
+Album: Robotics;Notes OP Single - Junjou Spectra
+Track: 1/5
+Date: 2012
+Genre: Anime
+mtime: 1353482308
+song_end
+song_begin: 02 - Junjou Spectra (Moonbug remix).mp3
+Time: 300
+Artist: Zwei
+Title: Junjou Spectra (Moonbug remix)
+Album: Robotics;Notes OP Single - Junjou Spectra
+Track: 2/5
+Date: 2012
+Genre: Anime
+mtime: 1353482308
+song_end
+end: Robotics;Notes
+directory: SUPER BEAVER - Rashisa  Watakushigoto (Single)
+mtime: 1412941863
+begin: SUPER BEAVER - Rashisa  Watakushigoto (Single)
+song_begin: 01 xzx.mp3
+Time: 268
+Artist: SUPER BEAVER
+Title: らしさ
+Album: らしさ / わたくしごと
+Track: 1/2
+Date: 2014
+Genre: Rock
+mtime: 1411483295
+song_end
+song_begin: 02 dhrzwq.mp3
+Time: 252
+Artist: SUPER BEAVER
+Title: わたくしごと
+Album: らしさ / わたくしごと
+Track: 2/2
+Date: 2014
+Genre: Rock
+mtime: 1411483295
+song_end
+end: SUPER BEAVER - Rashisa  Watakushigoto (Single)
+directory: SwordArtOnline
+mtime: 1412430110
+begin: SwordArtOnline
+song_begin: Sword Art Online - INNOCENCE.mp3
+Time: 277
+Artist: 藍井エイル
+Title: INNOCENCE
+Album: Single
+Track: 01
+Date: 2012
+Genre: Anime
+mtime: 1352691734
+song_end
+end: SwordArtOnline
+directory: The World Ends With You Album Edition
+mtime: 1349243212
+begin: The World Ends With You Album Edition
+song_begin: 1 - Twister (Original Version).mp3
+Time: 132
+Artist: SAWA
+Album: The World Ends With You Album Edition
+Track: 1
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 2 - Calling (1960s).mp3
+Time: 241
+Artist: Leah
+Album: The World Ends With You Album Edition
+Track: 2
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 3 - Give Me All Your Love ~All My Love.mp3
+Time: 256
+Artist: WAKAKO
+Album: The World Ends With You Album Edition
+Track: 3
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 4 - Long Dream (1980)-.mp3
+Time: 212
+Artist: Makiko Noda
+Album: The World Ends With You Album Edition
+Track: 4
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 5 - サムデイ (Someday) ~Unplugged.mp3
+Time: 275
+Artist: SAWA
+Album: The World Ends With You Album Edition
+Track: 5
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 6 - Make or Break ~Black Box.mp3
+Time: 246
+Artist: Hanaeryca
+Album: The World Ends With You Album Edition
+Track: 6
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 7 - Game Over ~Busy, Dizzy and Lazy.mp3
+Time: 169
+Artist: Andy KINLAY
+Album: The World Ends With You Album Edition
+Track: 7
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 8 - オーパーツ ~Give Me a Chance.mp3
+Time: 234
+Artist: Ayuko Tanaka/Mai Matsuda
+Album: The World Ends With You Album Edition
+Track: 8
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 9 - ハイブリッド ~New Born.mp3
+Time: 243
+Artist: Nulie Nurly
+Album: The World Ends With You Album Edition
+Track: 9
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 10 - Twister ~That Power is Yet Unknown.mp3
+Time: 232
+Artist: SAWA
+Album: The World Ends With You Album Edition
+Track: 10
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 11 - Déjà Vu.mp3
+Time: 245
+Artist: Joanna Koike
+Album: The World Ends With You Album Edition
+Track: 11
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 12 - Transformation.mp3
+Time: 198
+Artist: Andy Mitchell
+Album: The World Ends With You Album Edition
+Track: 12
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 13 - Three Minutes Clapping.mp3
+Time: 188
+Artist: J.D. Camaro
+Album: The World Ends With You Album Edition
+Track: 13
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 14 - Twister (Gang Mix).mp3
+Time: 210
+Artist: MJR
+Album: The World Ends With You Album Edition
+Track: 14
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 15 - The One Star.mp3
+Time: 204
+Artist: Cameron Strother
+Album: The World Ends With You Album Edition
+Track: 15
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 16 - Owari-Hajimari.mp3
+Time: 142
+Artist: Cameron Strother
+Album: The World Ends With You Album Edition
+Track: 16
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 17 - Three Minutes Clapping (Live).mp3
+Time: 193
+Artist: J.D. Camaro
+Album: The World Ends With You Album Edition
+Track: 17
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 18 - Transformation ~Transformed.mp3
+Time: 219
+Artist: Andy Mitchell
+Album: The World Ends With You Album Edition
+Track: 18
+Genre: Game
+mtime: 1349243068
+song_end
+song_begin: 19 - Déjà Vu (Discoteque).mp3
+Time: 286
+Artist: Joanna Koike
+Album: The World Ends With You Album Edition
+Track: 19
+Genre: Game
+mtime: 1349243068
+song_end
+end: The World Ends With You Album Edition
+directory: The World Ends With You EP
+mtime: 1349243276
+begin: The World Ends With You EP
+song_begin: 1 - Déjà Vu.mp3
+Time: 245
+Artist: Joanna Koike
+Title: Déjŕ Vu
+Album: The World Ends With You EP
+Track: 1
+mtime: 1349243322
+song_end
+song_begin: 2 - Three Minutes Clapping.mp3
+Time: 188
+Artist: J.D. Camaro
+Title: Three Minutes Clapping
+Album: The World Ends With You EP
+Track: 2
+mtime: 1349243322
+song_end
+song_begin: 3 - The One Star.mp3
+Time: 204
+Artist: Cameron Strother
+Title: The One Star
+Album: The World Ends With You EP
+Track: 3
+mtime: 1349243322
+song_end
+song_begin: 4 - Owari-Hajimari.mp3
+Time: 142
+Artist: Cameron Strother
+Title: Owari-Hajimari
+Album: The World Ends With You EP
+Track: 4
+mtime: 1349243322
+song_end
+song_begin: 5 - Transformation.mp3
+Time: 199
+Artist: Andy Mitchell
+Title: Transformation
+Album: The World Ends With You EP
+Track: 5
+mtime: 1349243322
+song_end
+song_begin: 6 - Twister ~The Twisters.mp3
+Time: 253
+Artist: MJR/SAWA
+Title: Twister ~The Twisters
+Album: The World Ends With You EP
+Track: 6
+mtime: 1349243322
+song_end
+end: The World Ends With You EP
+directory: The World Ends With You OST
+mtime: 1349243466
+begin: The World Ends With You OST
+song_begin: 01 It's So Wonderful.mp3
+Time: 99
+Artist: Takeharu Isimoto
+Title: It's So Wonderful
+Album: The World Ends With You OST
+Track: 1
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 02 Twister.mp3
+Time: 77
+Artist: SAWA
+Title: Twister
+Album: The World Ends With You OST
+Track: 2
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 03 Underground.mp3
+Time: 50
+Artist: Takeharu Isimoto
+Title: Underground
+Album: The World Ends With You OST
+Track: 3
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 04 Long Dream.mp3
+Time: 192
+Artist: Makiko Noda
+Title: Long Dream
+Album: The World Ends With You OST
+Track: 4
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 05 Calling.mp3
+Time: 205
+Artist: Leah
+Title: Calling
+Album: The World Ends With You OST
+Track: 5
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 06 Despair.mp3
+Time: 27
+Artist: Takeharu Isimoto
+Title: Despair
+Album: The World Ends With You OST
+Track: 6
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 07 Hybrid.mp3
+Time: 184
+Artist: SAWA
+Title: Hybrid
+Album: The World Ends With You OST
+Track: 7
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 08 Fighting For Freedom.mp3
+Time: 126
+Artist: Takeharu Isimoto
+Title: Fighting For Freedom
+Album: The World Ends With You OST
+Track: 8
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 09 オーパーツ.mp3
+Time: 214
+Artist: Ayuko Tanaka/Mai Matsuda
+Title: オーパーツ
+Album: The World Ends With You OST
+Track: 9
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 10 Forebode.mp3
+Time: 28
+Artist: Takeharu Isimoto
+Title: Forebode
+Album: The World Ends With You OST
+Track: 10
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 11 Give Me All Your Love.mp3
+Time: 261
+Artist: WAKAKO
+Title: Give Me All Your Love
+Album: The World Ends With You OST
+Track: 11
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 12 サムデイ.mp3
+Time: 220
+Artist: SAWA
+Title: サムデイ
+Album: The World Ends With You OST
+Track: 12
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 13 Satisfy.mp3
+Time: 240
+Artist: Ayuko Tanaka
+Title: Satisfy
+Album: The World Ends With You OST
+Track: 13
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 14 Someday.mp3
+Time: 219
+Artist: Hanaeryca
+Title: Someday
+Album: The World Ends With You OST
+Track: 14
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 15 ツイスター.mp3
+Time: 218
+Artist: Mai Matsuda
+Title: ツイスター
+Album: The World Ends With You OST
+Track: 15
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 16 Let's Get Together.mp3
+Time: 17
+Artist: Takeharu Isimoto
+Title: Let's Get Together
+Album: The World Ends With You OST
+Track: 16
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 17 Slash and Slash.mp3
+Time: 63
+Artist: Takeharu Isimoto
+Title: Slash and Slash
+Album: The World Ends With You OST
+Track: 17
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 18 Amnesia.mp3
+Time: 49
+Artist: Takeharu Isimoto
+Title: Amnesia
+Album: The World Ends With You OST
+Track: 18
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 19 Rush Hour.mp3
+Time: 34
+Artist: Takeharu Isimoto
+Title: Rush Hour
+Album: The World Ends With You OST
+Track: 19
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 20 imprinting.mp3
+Time: 67
+Artist: Takeharu Isimoto
+Title: imprinting
+Album: The World Ends With You OST
+Track: 20
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 21 オワリハジマリ.mp3
+Time: 137
+Artist: Cameron Strother
+Title: オワリハジマリ
+Album: The World Ends With You OST
+Track: 21
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 22 Psychedelic.mp3
+Time: 143
+Artist: Takeharu Isimoto
+Title: psychedelic
+Album: The World Ends With You OST
+Track: 22
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 23 Game Over.mp3
+Time: 169
+Artist: Andy KINLAY
+Title: Game Over
+Album: The World Ends With You OST
+Track: 23
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 24 Dancer In The Street.mp3
+Time: 34
+Artist: Takeharu Isimoto
+Title: Dancer In The Street
+Album: The World Ends With You OST
+Track: 24
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 25 ハイブリッド.mp3
+Time: 184
+Artist: Nulie Nurly
+Title: ハイブリッド
+Album: The World Ends With You OST
+Track: 25
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 26 Detonation.mp3
+Time: 153
+Artist: Londell Hicks
+Title: Detonation
+Album: The World Ends With You OST
+Track: 26
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243370
+song_end
+song_begin: 27 Black Market.mp3
+Time: 33
+Artist: Takeharu Isimoto
+Title: Black Market
+Album: The World Ends With You OST
+Track: 27
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 28 Junk Garage.mp3
+Time: 87
+Artist: Takeharu Isimoto
+Title: Junk Garage
+Album: The World Ends With You OST
+Track: 28
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 29 It Is Fashionable.mp3
+Time: 34
+Artist: Takeharu Isimoto
+Title: It Is Fashionable
+Album: The World Ends With You OST
+Track: 29
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 30 NOISY NOISE.mp3
+Time: 134
+Artist: Takeharu Isimoto
+Title: NOISY NOISE
+Album: The World Ends With You OST
+Track: 30
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 31 Economical Shoppers.mp3
+Time: 28
+Artist: Takeharu Isimoto
+Title: Economical Shoppers
+Album: The World Ends With You OST
+Track: 31
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 32 SHIBUYA.mp3
+Time: 128
+Artist: Takeharu Isimoto
+Title: SHIBUYA
+Album: The World Ends With You OST
+Track: 32
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 33 Make or Break.mp3
+Time: 247
+Artist: Hanaeryca
+Title: Make or Break
+Album: The World Ends With You OST
+Track: 33
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 34 Twister-Remix.mp3
+Time: 272
+Artist: SAWA
+Title: Twister-Remix
+Album: The World Ends With You OST
+Track: 34
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243358
+song_end
+song_begin: 35 Unknown Track.mp3
+Time: 183
+Artist: Takeharu Isimoto
+Title: Unknown Track
+Album: The World Ends With You OST
+Track: 35
+Genre: Game
+Composer: Takeharu Isimoto
+mtime: 1349243378
+song_end
+end: The World Ends With You OST
+directory: UverWorld
+mtime: 1396292160
+begin: UverWorld
+song_begin: UVERworld-Core Pride.mp3
+Time: 214
+Artist: UVERworld
+AlbumArtist: UVERworld
+Title: Core Pride
+Album: Core Pride single
+Track: 1
+Date: 2011
+Genre: Other
+Composer: 彰/TAKUYA
+mtime: 1318791562
+song_end
+end: UverWorld
+directory: Yovie & Nuno
+mtime: 1412430150
+begin: Yovie & Nuno
+song_begin: Yovie & Nuno - Bunga JIwaku.mp3
+Time: 214
+Artist: Track04
+Title: Track04.mp3
+Genre: Blues
+mtime: 1198434732
+song_end
+song_begin: Yovie & Nuno - Dia Milikku.mp3
+Time: 212
+Artist: yovie & nuno
+Title: dia milikku
+Genre: Blues
+mtime: 1292276832
+song_end
+song_begin: Yovie & Nuno - Janji Suci.mp3
+Time: 198
+Artist: Track03
+Title: Track03.mp3
+Genre: Blues
+mtime: 1198434710
+song_end
+song_begin: Yovie & Nuno - Menjaga Hari.mp3
+Time: 238
+Artist: Yovie & nuno
+Title: Track02.mp3
+Genre: Blues
+mtime: 1292276858
+song_end
+song_begin: Yovie & Nuno - Sempat Memiliki.mp3
+Time: 251
+Artist: Track11
+Title: Track11.mp3
+Genre: Blues
+mtime: 1198434910
+song_end
+song_begin: Yovie & Nuno - Merindu Lagi.mp3
+Time: 165
+Artist: Yovie and Nuno
+AlbumArtist: www.NyolongMp3.tk
+Title: Merindu Lagi
+Album: Winning Eleven
+Track: 4
+Date: 2010
+Genre: Pop
+Composer: www.NyolongMp3.tk
+mtime: 1281558580
+song_end
+song_begin: Yovie & Nuno -  Manusia Biasa (CLB) CD Rip.mp3
+Time: 224
+Artist: Yovie & Nuno www.NyolongMp3.tk
+AlbumArtist: www.NyolongMp3.tk
+Title: Manusia Biasa (CLB) www.NyolongMp3.tk
+Album: Winning Eleven www.NyolongMp3.tk
+Date: 2010
+Genre: Pop
+Composer: www.NyolongMp3.tk
+mtime: 1281559212
+song_end
+end: Yovie & Nuno
+song_begin: AKB48 - Kaze wa Fuiteiru [mp3clan.com].mp3
+Time: 259
+Artist: AKB48
+Title: Kaze wa Fuiteiru
+mtime: 1405128716
+song_end
+song_begin: Re_ Hamatora Opening Full – SEN NO TSUBASA (Re：␣ハマトラ).mp3
+Time: 221
+Artist: Re:Hamatora
+Title: Sen No Tsubasa
+mtime: 1412877057
+song_end
+song_begin: Rune Factory 3 - HAPPINESS( English, Long Version).mp3
+Time: 256
+mtime: 1360667366
+song_end
+song_begin: ss.mp3
+Time: 322
+mtime: 1379264768
+song_end
+song_begin: tensho.mp3
+Time: 245
+Artist: Evangelion
+Title: Zankoku no Tenshi
+Track: 1
+mtime: 1412929073
+song_end
+song_begin: Ichinen Nikagetsu Hatsuka - Bright.mp3
+Time: 311
+Artist: Bright
+Title: Ichinen Nikagetsu Hatsuka
+Album: Bright
+Genre: Jpop
+mtime: 1412877026
+song_end
+song_begin: V.mp3
+Time: 229
+Artist: 遊助
+AlbumArtist: 遊助
+Title: V
+Album: V / 時給850円のサンタクロース [初回盤A]
+Track: 1/4
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390379624
+song_end
+song_begin: BACK-ON _ 「wimp ft. Lil' Fang(from FAKY)」MUSIC VIDEO-jQU8jUyX5q4.mp3
+Time: 219
+Artist: Back-On
+Title: Wimp
+Album: Wimp
+mtime: 1412876997
+song_end
+song_begin: 01 - ambiguous.mp3
+Time: 271
+Artist: GARNiDELiA
+Title: ambiguous
+Album: ambiguous
+Track: 1
+Date: 2014
+Genre: Anime
+Genre: Anime
+mtime: 1394272228
+song_end
+song_begin: Rei Yasuda-Mirror.mp3
+Time: 236
+Artist: Rei Yasuda
+Title: Mirror
+Album: com]
+Track: 1
+Date: 2014
+Genre: Anime
+mtime: 1412877096
+song_end
+song_begin: 01 - heavenly blue.mp3
+Time: 322
+Artist: Kalafina
+Title: Heavenly Blue
+Album: heavenly blue
+Track: 1
+Date: 2014
+Genre: Anime
+mtime: 1412877070
+song_end
+song_begin: _AincradWord__Back_On_-_Nibun_no_Ichi_3.mp3
+Time: 186
+Artist: BACK-ON
+Title: Nibun no Ichi
+Album: ニブンノイチ / INFINITY - Single
+Track: 1/2
+Date: 2013
+Genre: ost anime
+mtime: 1385898508
+song_end
+song_begin: 1 FLAT (adding Yuuki Ozaki).mp3
+Time: 254
+Artist: Yuuki Ozaki
+AlbumArtist: 氀椀瘀攀琀甀渀攀 愀搀搀椀渀最 夀甀甀欀椀 伀稀愀欀椀 ⠀昀爀漀洀 䜀愀氀椀氀攀漀 䜀愀氀椀氀攀椀⤀
+Title: Flat
+Album: 䘀䰀䄀吀 ⴀ 䔀倀
+Track: 1
+Date: 2014
+Genre: Anime
+Composer: 欀稀
+mtime: 1412876902
+song_end
+song_begin: Unravel-TG-Samehadaku.net.mp3
+Time: 241
+Artist: TK
+AlbumArtist: 唀渀爀愀瘀攀氀
+Title: Unravel
+Album: 唀渀爀愀瘀攀氀
+Track: 1
+Date: 2014
+Composer: www.anime-mp3.com
+mtime: 1412877120
+song_end

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=bash -c "sleep 5 && xfce4-terminal --hide-toolbar --hide-menubar --hide-borders --geometry=70x12+840+215"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=xfce4-terminal2
+Name=terminull
+Comment[en_US]=
+Comment=

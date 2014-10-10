@@ -1,0 +1,42 @@
+minimum_size 215 325
+#maximum_width 700
+gap_x 1130
+gap_y 60
+alignment top_left
+update_interval 0
+use_xft yes
+xftfont Monaco:size=9
+own_window yes
+own_window_type desktop
+own_window_transparent no
+own_window_colour 000000
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_argb_visual yes
+own_window_argb_value 200
+double_buffer yes
+draw_shades no
+draw_graph_borders no
+uppercase no
+border_inner_margin 10
+default_color ffffff
+
+TEXT
+NOTE
+${hr 1}
+
+${font Monaco:size=12}Bitches be Crazay
+
+Bitches be Crazay
+
+Bitches be Crazay
+
+Bitches be Crazay
+
+Bitches be Crazay
+
+Bitches be Crazay
+
+Bitches be Crazay
+
+Bitches be Crazay
+
